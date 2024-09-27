@@ -1,7 +1,8 @@
 
-
-
 # JavaScript Code for Mathematical Expression
+
+![Screenshot 2024-09-27 165308](https://github.com/user-attachments/assets/b0b148d8-8abb-4bb1-b5ad-2a9dfc9917e7)
+
 
 
 ```javascript
