@@ -3,13 +3,15 @@
 
 ![Screenshot 2024-09-27 165308](https://github.com/user-attachments/assets/b0b148d8-8abb-4bb1-b5ad-2a9dfc9917e7)
 
-\[
-\frac{\int \sqrt{x^2 - 5} \, dx - 3 \int \frac{x}{\sqrt{x^2 + 5}} \, dx}{\int \frac{x \left( (x^2 + 5) - 3 \right)}{\sqrt{x^2 + 5}} \, dx}
-\]
+
 
 
 ```javascript
 // Import mathjs library
+
+\[
+\frac{\int \sqrt{x^2 - 5} \, dx - 3 \int \frac{x}{\sqrt{x^2 + 5}} \, dx}{\int \frac{x \left( (x^2 + 5) - 3 \right)}{\sqrt{x^2 + 5}} \, dx}
+\]
 const math = require('mathjs');
 
 // Define the functions
