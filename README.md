@@ -7,7 +7,6 @@
 \frac{\int \sqrt{x^2 - 5} \, dx - 3 \int \frac{x}{\sqrt{x^2 + 5}} \, dx}{\int \frac{x \left( (x^2 + 5) - 3 \right)}{\sqrt{x^2 + 5}} \, dx}
 \]
 
-
 ```javascript
 // Import mathjs library
 const math = require('mathjs');
